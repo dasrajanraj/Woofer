@@ -1,0 +1,27 @@
+.title{
+    text-align: center;
+}
+.woffer, .loading{
+    width: 50%;
+    margin: 0 auto;
+}
+.loading{
+    text-align: center;
+}
+.woffs{
+    width: 60%;
+    margin: 0 auto;
+}
+.woffs div{
+    margin: 1rem auto;
+    padding: 1rem;
+    border: 1px solid  rgba(255, 252, 97, 0.616);
+    border-radius: 10px;
+    box-shadow: 2px 4px 4px rgba(255, 252, 97, 0.274) ;  
+}
+.woffs div h5, .woffs div p, .woffs div small{
+    margin: 0;  
+}
+.woffs div small{
+    color: rgb(109, 109, 109);
+}
